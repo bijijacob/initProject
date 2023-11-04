@@ -16,6 +16,7 @@ public class printData {
 
 		System.out.println("Hello Biji Jacob");
 		System.out.println("How are you");
+		Model model = new Model();
 	}
 
 }
