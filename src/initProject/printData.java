@@ -15,6 +15,7 @@ public class printData {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello Biji Jacob");
+		System.out.println("How are you");
 	}
 
 }
